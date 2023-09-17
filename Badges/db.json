@@ -1,0 +1,10 @@
+{
+    "badges": [
+      { "id": 1, "Welcome": "Badge 1", "description": "Earned for getting started on your financial wellness journey", "points": 50 },
+      { "id": 2, "First Deposit": "Badge 2", "description": "Earned for saving $100", "points": 75 },
+      { "id": 3, "Budgeting": "Badge 3", "description": "Earned for setting a budget", "points": 100 },
+      { "id": 4, "Debt": "Badge 4", "description": "Earned for paying off debt", "points": 75 }
+    ],
+    "users": []
+  }
+  
